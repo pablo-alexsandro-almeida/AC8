@@ -1,5 +1,5 @@
 from unittest import TestCase
-from com.faculdadeimpacta.calculadora import Operacoes
+from com.faculdadeimpacta.calculadora.operacoes import Operacoes
 
 class TestOperacoes(TestCase):
 
